@@ -1,0 +1,25 @@
+#main{
+    background-color: white;
+    min-height: 300px;
+    overflow: hidden;
+}
+#sidebar1{
+    background-color: brown;
+    min-height: 400px;
+    float: left;
+    width: 200px;
+    margin-top: 40px;
+}
+#sidebar2{
+    background-color: brown;
+    min-height: 400px;
+    float: right;
+    width: 200px;
+    margin-top: 40px;
+}
+#column1{
+    background-color: blueviolet;
+    min-height: 400px;
+    margin-top: 40px;
+}
+
